@@ -37,7 +37,7 @@
       */
     
     id<TAGContainerFuture> future =
-    [TAGContainerOpener openContainerWithId:@"GTM-5PK9BX"    // Placeholder Container ID.
+    [TAGContainerOpener openContainerWithId:@"GTM-XXXXXX"    // Placeholder Container ID.
                                  tagManager:[TAGManager instance]
                                    openType:kTAGOpenTypePreferNonDefault
                                     timeout:nil];
