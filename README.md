@@ -2,7 +2,7 @@
 
 This simple app demonstrates how to use Google Tag Manager to update an iOS application.
 
-The example is a part of the [Updating Your iOS Application Through Google Tag manager](http://www.analyticspros.com/?p=9944) article.
+The example is a part of the [Updating Your iOS Application Through Google Tag manager](https://www.analyticspros.com/blog/tag-management/gtm-for-mobile/) article.
 
 To learn more about Google Tag Manager refer to: https://developers.google.com/tag-manager/
 
